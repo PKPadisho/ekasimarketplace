@@ -10,7 +10,7 @@ C2C marketplace - for local seller/consumers to be able to sell and buy products
 - HTML/CSS
 
 ## Status
-Cuurently live, hosted with infinity free
+Currently live, hosted with infinity free
 
 ## How to run it locally
 Run with XAMPP
