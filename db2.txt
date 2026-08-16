@@ -1,0 +1,13 @@
+<?php
+
+$host = "sql303.infinityfree.com";
+$user = "if0_42131380";
+$password = "CSaU8EvfaSC";
+$database = "if0_42131380_ekasimarketplace";
+$conn = new mysqlit($host, $user, $password, $database); 
+
+if(!$conn->connect_error){
+	die("Connection Failed: ". $conn->connect_error);
+}
+
+?>
